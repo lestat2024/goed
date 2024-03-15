@@ -2,7 +2,7 @@ Goed is a library written in Go, designed for calculating the edit distance (Lev
 
 1. String Edit Distance:
 
-  Goed implements a standard dynamic programming-based approach to calculate the edit distance between two strings. Its sequential version is based on the classic Wagner–Fischer algorithm. The parallel version employs both wavefront-oriented and tile-based parallelism to adapt to the dynamic programming nature.
+  Goed implements a standard dynamic programming-based approach to calculate the edit distance between two strings. Its sequential version is based on the classic Wagner–Fischer algorithm. The parallel version employs wavefront-oriented, tile-based parallelism to adapt to the dynamic programming nature.
   
 2. Tree Edit Distance:
 
