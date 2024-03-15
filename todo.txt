@@ -1,5 +1,0 @@
-string edit distance
-string edit distance wavefront parallel
-tree edit distance (zhang/shasha)
-x-ted
-x-ted/cuda
