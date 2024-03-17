@@ -6,4 +6,8 @@ Goed is a library written in Go, designed for calculating the edit distance (Lev
   
 2. Tree Edit Distance:
 
-4. Graph Edit Distance:
+  todo
+  
+3. Graph Edit Distance:
+
+  todo
